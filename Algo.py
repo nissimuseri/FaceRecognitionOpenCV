@@ -27,15 +27,6 @@ JasonStathemFaceEncoding = fr.face_encodings(JasonStathemImage)[0]
 DwayneJohnsonImage = fr.load_image_file("Images/Johnson.jpg")
 DwayneJohnsonFaceEncoding = fr.face_encodings(DwayneJohnsonImage)[0]
 
-NissimMuseriImage = fr.load_image_file("Images/Museri.jpg")
-NissimMuseriFaceEncoding = fr.face_encodings(NissimMuseriImage)[0]
-
-KarinKrupetskyImage = fr.load_image_file("Images/Krupetsky.jpg")
-KarinKrupetskyFaceEncoding = fr.face_encodings(KarinKrupetskyImage)[0]
-
-DmitryPatashovatashovImage = fr.load_image_file("Images/Patashov.jpg")
-DmitryPatashovFaceEncoding = fr.face_encodings(DmitryPatashovatashovImage)[0]
-
 YuvalHamevulbalImage = fr.load_image_file("Images/Mevulbal.jpg")
 YuvalHamevulbalFaceEncoding = fr.face_encodings(YuvalHamevulbalImage)[0]
 
@@ -68,9 +59,6 @@ knownFaceEncodings = [
     PutinTrumpFaceEncoding,
     JasonStathemFaceEncoding,
     DwayneJohnsonFaceEncoding,
-    NissimMuseriFaceEncoding,
-    KarinKrupetskyFaceEncoding,
-    DmitryPatashovFaceEncoding,
     YuvalHamevulbalFaceEncoding,
     EyalGolanFaceEncoding,
     MoshePeretzFaceEncoding,
@@ -88,9 +76,6 @@ knownFaceNames = [
     "Vladimir Putin",
     "Jason Stathem",
     "Dwayne Johnson",
-    "Nissim Museri",
-    "Karin Krupetsky",
-    "Dmitry Patashov",
     "Yuval Hamevulbal",
     "Eyal Golan",
     "Moshe Peretz",
