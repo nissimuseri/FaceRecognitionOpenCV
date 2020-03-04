@@ -10,7 +10,8 @@ and recognize them with local data(names + pictures) for marking them live.
 
 *This application using OpenCV for functions of image proccesing, PLT for mathematics, and tkinter for UI.
 
-YouTube Video that show the abilities of the program: https://www.youtube.com/watch?v=gMQWggxtoUM&feature=youtu.be
+YouTube Video that show the abilities of the program:
+https://www.youtube.com/watch?v=gMQWggxtoUM&feature=youtu.be
 
 ![Presentation](https://user-images.githubusercontent.com/55482825/75923216-4c228b80-5e6d-11ea-825f-94e2262ae2c6.JPG)
 
